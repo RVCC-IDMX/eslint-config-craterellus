@@ -1,6 +1,6 @@
 /*
 
-  whoa!    Hold your horses! This is badly formatted code.
+  whoa!    Hold your horses! This is nicely formatted code.
 
 */
 
